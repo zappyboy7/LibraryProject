@@ -18,7 +18,9 @@ public class LoginMethod {
 
             do{
                 MemberVo vo = new MemberVo();
-
+/*
+    깃 테스트용 주석 문구입니다.
+ */
 
                 System.out.print("아이디 : ");
                 String idInput = scan.nextLine();
